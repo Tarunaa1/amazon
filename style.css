@@ -15,7 +15,7 @@
     width: 114px;
 }
 .logo{
-    background-image: url(/amazon/amazon_logo.png);
+    background-image: url(/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -204,7 +204,7 @@ i{
     height: 800px;
     width: 1500px;
     background-color: #F5F6F6;
-    background-image: url(/amazon/hero.jpg);
+    background-image: url(/hero.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: flex; */
@@ -247,7 +247,7 @@ i{
     color: #007185;
 }
 #headset{
-    background-image: url(/amazon/gaming/headsets.jpg);
+    background-image: url(/gaming/headsets.jpg);
     background-size: contain;
     background-repeat: no-repeat; 
     display: inline-block;
@@ -256,7 +256,7 @@ i{
     
 }
 #keyboards{
-    background-image: url(/amazon/gaming/keyboards.jpg);
+    background-image: url(/gaming/keyboards.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -264,7 +264,7 @@ i{
     height: 115px;    
 }
 #mice{
-    background-image: url(/amazon/gaming/mice.jpg);
+    background-image: url(/gaming/mice.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -273,7 +273,7 @@ i{
     height: 115px;
 }
 #chair{
-    background-image: url(/amazon/gaming/chair.jpg);
+    background-image: url(/gaming/chair.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -311,7 +311,7 @@ i{
     color: #007185;
 }
 #Jeans{
-    background-image: url(/amazon/fashion/jeans.jpg);
+    background-image: url(/fashion/jeans.jpg);
     background-size: contain;
     background-repeat: no-repeat; 
     display: inline-block;
@@ -320,7 +320,7 @@ i{
     
 }
 #Tops{
-    background-image: url(/amazon/fashion/tops.jpg);
+    background-image: url(/fashion/tops.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -328,7 +328,7 @@ i{
     height: 115px;    
 }
 #dresses{
-    background-image: url(/amazon/fashion/dress.jpg);
+    background-image: url(/fashion/dress.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -337,7 +337,7 @@ i{
     height: 115px;
 }
 #Shoes{
-    background-image: url(/amazon/fashion/shoes.jpg);
+    background-image: url(/fashion/shoes.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -375,7 +375,7 @@ i{
     color: #007185;
 }
 #baskets{
-    background-image: url(/amazon/space/baskets.jpg);
+    background-image: url(/space/baskets.jpg);
     background-size: contain;
     background-repeat: no-repeat; 
     width: 45%;
@@ -383,21 +383,21 @@ i{
     
 }
 #hardware{
-    background-image: url(/amazon/space/hardware.jpg);
+    background-image: url(/space/hardware.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     width: 45%;
     height: 115px;    
 }
 #accent{
-    background-image: url(/amazon/space/accent.jpg);
+    background-image: url(/space/accent.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     width: 45%;
     height: 115px;
 }
 #paint{
-    background-image: url(/amazon/space/paint.jpg);
+    background-image: url(/space/paint.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     width: 45%;
@@ -442,7 +442,7 @@ i{
     position: relative;
     left: 1130px;
     bottom: 960px;
-    background-image: url(/amazon/ship.jpg);
+    background-image: url(/ship.jpg);
 }
 .back{
     height: 49px;
